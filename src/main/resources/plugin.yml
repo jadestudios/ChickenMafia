@@ -1,0 +1,8 @@
+name: GroupedChicken
+version: ${project.version}
+main: uk.jadestudios.purpur.groupedchicken.GroupedChicken
+api-version: 1.18
+load: STARTUP
+authors: [ JadeStudios ]
+description: Makes chicken follow a single target when hit
+website: https://jadestudios.uk
